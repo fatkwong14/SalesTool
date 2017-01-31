@@ -1,10 +1,16 @@
 package com.main;
 
 public class HelloWorld {
+	
+	private String defaultSong = "ABC SONG";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("testomg");
+		System.out.print("what's your name ? "+inputByUser());
+	}
+	
+	public static String inputByUser(){
+		return "i am jason tsang";
 	}
 
 }
