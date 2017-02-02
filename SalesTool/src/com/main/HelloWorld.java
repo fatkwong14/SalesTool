@@ -15,12 +15,17 @@ public class HelloWorld {
 		return "i am jason tsang";
 	}
 	
+
 	public static String dataPatch(){
 		return "data patcing ...";
 	}
 	
 	public static String Prd(){	
 		return "this is prd";
+	}
+		//todo 
+	public static String uat(){
+		return "this is testing fx";
 	}
 
 }
