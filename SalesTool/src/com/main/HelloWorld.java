@@ -12,5 +12,9 @@ public class HelloWorld {
 	public static String inputByUser(){
 		return "i am jason tsang";
 	}
+	
+	public static String uat(){
+		return "this is testing fx";
+	}
 
 }
