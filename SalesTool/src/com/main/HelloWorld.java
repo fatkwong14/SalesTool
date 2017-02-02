@@ -18,5 +18,9 @@ public class HelloWorld {
 	public static String dataPatch(){
 		return "data patcing ...";
 	}
+	
+	public static String Prd(){	
+		return "this is prd";
+	}
 
 }
