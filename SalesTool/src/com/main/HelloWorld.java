@@ -31,5 +31,9 @@ public class HelloWorld {
 	public static String done(){
 		return "job done eventually!!!!!! ";
 	}
+	
+	public static String updAgain(){
+		return "20170202 0938";
+	}
    
 }
