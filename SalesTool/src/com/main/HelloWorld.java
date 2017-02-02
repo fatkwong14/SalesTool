@@ -27,5 +27,5 @@ public class HelloWorld {
 	public static String uat(){
 		return "this is testing fx";
 	}
-
+   
 }
