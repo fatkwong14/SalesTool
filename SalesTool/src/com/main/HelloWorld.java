@@ -40,5 +40,9 @@ public class HelloWorld {
 	public static String updAgain(){
 		return "20170202 0938";
 	}
+	
+	public static String specialBranch(){
+		return  "special branch";
+	}
    
 }
