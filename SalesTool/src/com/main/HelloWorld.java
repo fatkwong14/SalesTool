@@ -38,7 +38,10 @@ public class HelloWorld {
 	
 	
 	public static String updAgain(){
+		String abc = "prd";
 		return "20170202 0938";
 	}
+	
+	
    
 }
