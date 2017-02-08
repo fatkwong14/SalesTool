@@ -42,6 +42,7 @@ public class HelloWorld {
 	}
 	
 	public static String specialBranch(){
+		String specialHead = "HEAD";
 		return  "special branch";
 	}
    
