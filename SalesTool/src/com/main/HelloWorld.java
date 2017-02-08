@@ -37,14 +37,15 @@ public class HelloWorld {
 	}
 	
 	
-	public static String updAgain(){
-		String abc = "prd";
-		return "20170202 0938";
+	public static String updAgain(){		
+		return "PRODUCTION";
 	}
 
 	public static String specialBranch(){
 		String specialHead = "HEAD";
 		return  "special branch";
 	}
+	
+	
    
 }
