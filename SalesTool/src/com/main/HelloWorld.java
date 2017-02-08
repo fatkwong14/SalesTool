@@ -41,7 +41,10 @@ public class HelloWorld {
 		String abc = "prd";
 		return "20170202 0938";
 	}
-	
-	
+
+	public static String specialBranch(){
+		String specialHead = "HEAD";
+		return  "special branch";
+	}
    
 }
