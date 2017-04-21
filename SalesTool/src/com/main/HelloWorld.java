@@ -25,6 +25,7 @@ public class HelloWorld {
 	}
 		//todo 
 	public static String uat(){
+		String test="test";
 		return "this is testing fx";
 	}
 	
