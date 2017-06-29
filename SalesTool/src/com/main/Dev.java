@@ -2,5 +2,5 @@ package com.main;
 
 public class Dev {
 	//Add sth
-	private String dev = "prd";
+	private String dev = "dev";
 }
